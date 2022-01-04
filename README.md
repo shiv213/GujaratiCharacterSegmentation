@@ -1,1 +1,1 @@
-# GujaratiHCR
+# GujaratiCharacterSegmentation
